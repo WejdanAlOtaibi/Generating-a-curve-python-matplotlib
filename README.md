@@ -25,4 +25,4 @@ The matplotlib methods I used in this project are:
  4. plt.show()
        for showing the whole graph
  
- These were the ,ethods I used for this project
+ These were the methods I used for this project, matplotlib has many other methods for graphs, e.g. changing colors of lines, 
