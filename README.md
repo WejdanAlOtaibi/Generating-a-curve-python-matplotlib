@@ -1,4 +1,4 @@
-# Generating-a-curve-python-matplotlib
+# Generating A Curve
 
 A beginners' project that generates a sin/cos curve 
 
