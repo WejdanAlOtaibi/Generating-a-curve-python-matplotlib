@@ -17,9 +17,12 @@ In this project I used:
 
 The matplotlib methods I used in this project are:
  1. plt.plot() 
-    plotting the graph
+       plotting the graph
  2. plt.Valuelabel()
-    for labelling the values of the graphe, e.g. plt.xlabel("x values")
+       for labelling the values of the graphe, e.g. plt.xlabel("x values")
  3. plt.title()
-    title of the graph
- 4.
+       title of the graph
+ 4. plt.show()
+       for showing the whole graph
+ 
+ These were the ,ethods I used for this project
