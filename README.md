@@ -20,4 +20,6 @@ The matplotlib methods I used in this project are:
     plotting the graph
  2. plt.Valuelabel()
     for labelling the values of the graphe, e.g. plt.xlabel("x values")
- 3. 
+ 3. plt.title()
+    title of the graph
+ 4.
