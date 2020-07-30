@@ -11,7 +11,7 @@ In this project I used:
      
  - matplotlib
      Matplotlib is a plotting library for Python. It is used along with NumPy to provide an environment that is an effective open source alternative for MatLab
-     It's used for plotting graphs, Data Analysis, Data Visualizing and many more
+     It's used for plotting graphs, Data Analysis, Data Visualization and many more
 
 # matplotlib methods
 
